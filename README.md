@@ -5,6 +5,14 @@ The game allows a user to play against the computer with visual buttons, score t
 
 ---
 
+## 🔗 Live Demo
+https://rock-paper-scissors-1-zlwp.onrender.com
+
+## 📸 Project Preview
+<p align="center">
+  <img src="images/preview.png" width="600">
+</p>
+
 ## Features
 - Rock, Paper, and Scissors selection using image buttons
 - Player vs Computer gameplay
